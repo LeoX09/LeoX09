@@ -1,4 +1,4 @@
-👋 Olá! Eu sou [Leandro Isaias]
+👋 Olá! Eu me chamo Leandro!
 
 Bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontrará projetos e contribuições relacionados ao meu aprendizado e paixão por tecnologia e desenvolvimento.
 🌟 Sobre Mim
