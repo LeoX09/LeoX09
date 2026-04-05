@@ -13,17 +13,5 @@ Computer Engineering student @ CIn/UFPE (2026.2) · Building real projects while
 
 ---
 
-## 📌 Projects
-
-**[PyReaderPDF](https://github.com/LeoX09/PyReaderPDF)** — Desktop PDF reader built with PySide6.
-Continuous scroll, text selection, notes panel, TOC sidebar, keyword search, and more.
-
-**[LookIdeias](https://github.com/LeoX09/LookIdeias)** — Full-stack web app for a print shop.
-React + Vite frontend, Spring Boot + MySQL backend, JWT authentication.
-
----
-
-## 📊 Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoX09&show_icons=true&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoX09&layout=compact&theme=dracula&hide_border=true)
