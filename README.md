@@ -1,26 +1,29 @@
-👋 Olá! Eu me chamo Leandro!
+# Leandro
 
-Bem-vindo ao meu espaço no GitHub! 🚀 Aqui você encontrará projetos e contribuições relacionados ao meu aprendizado e paixão por tecnologia e desenvolvimento.
-🌟 Sobre Mim
+Computer Engineering student @ CIn/UFPE (2026.2) · Building real projects while I learn.
 
-    💻 Desenvolvedor em formação, com foco em desenvolvimento web e integração de sistemas.
-    🎯 Buscando sempre criar soluções que unam funcionalidade, inovação e design.
-    📚 Apaixonado por aprendizado contínuo e por explorar novas tecnologias.
+---
 
-🛠 Tecnologias que Domino
+## 🛠️ Tech Stack
 
-    Frontend: HTML5, CSS3, JavaScript (jQuery, Bootstrap).
-    Backend: PHP, MySQL, integração com APIs (TMDB).
-    Outros: Versionamento com Git e GitHub, design responsivo e otimização web.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-🚀 O que você pode encontrar aqui
+---
 
-    Plataformas dinâmicas: Projetos como um sistema de comentários de filmes integrado com a API TMDB.
-    Aprendizado constante: Aplicações criadas para explorar novos conceitos e boas práticas.
+## 📌 Projects
 
-📫 Como me Encontrar
+**[PyReaderPDF](https://github.com/LeoX09/PyReaderPDF)** — Desktop PDF reader built with PySide6.
+Continuous scroll, text selection, notes panel, TOC sidebar, keyword search, and more.
 
-    💼 LinkedIn:https://www.linkedin.com/in/leandro-isaias
-    ✉️ Email: leandroisaiass484@gmail.com
+**[LookIdeias](https://github.com/LeoX09/LookIdeias)** — Full-stack web app for a print shop.
+React + Vite frontend, Spring Boot + MySQL backend, JWT authentication.
 
-⚡ Vamos colaborar? Estou sempre aberto a novas ideias e desafios!
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoX09&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoX09&layout=compact&theme=dracula&hide_border=true)
