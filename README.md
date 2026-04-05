@@ -1,17 +1,26 @@
 # Leandro
 
-Computer Engineering student @ CIn/UFPE (2026.2) · Building real projects while I learn.
+I'm a software developer based in Brazil.
+
+I mostly work on backend and desktop stuff — Java, Spring Boot, and Python.
+
+I also use React and Vite when I need to build a frontend.
+
+This is a profile where I upload projects I'm currently building. Everything here is built from scratch, no copy/paste templates.
 
 ---
 
-## 🛠️ Tech Stack
+## Tools & Tech
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- Java, Spring Boot, MySQL
+- Python, PySide6
+- React, Vite, TypeScript
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoX09&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoX09&layout=compact&theme=dracula&hide_border=true)
+## A Bit About Me
+
+- 🎓 Incoming Computer Engineering student @ CIn/UFPE
+- 🐐 I have three cats
+- 📐 Currently studying math for university
+- 🔧 I like building things that actually work and make sense
